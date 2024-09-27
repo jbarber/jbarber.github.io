@@ -3,3 +3,28 @@ languageCode = 'en-us'
 title = 'wasted cycles'
 theme = "m10c"
 author = "Jonathan Barber"
+
+[params.style]
+  primaryColor = "#a0d4f9"
+
+[params]
+  description = "Yet another abandoned blog in the making"
+  author = "Jonathan Barber"
+  avatar = "jonathan.webp"
+
+ [[params.social]]
+   icon = "github"
+   name = "Github"
+   url = "https://github.com/jbarber"
+ [[params.social]]
+   icon = "gitlab"
+   name = "Gitlab"
+   url = "https://gitlab.com/jonathan.barber"
+ [[params.social]]
+   icon = "linkedin"
+   name = "LinkedIn"
+   url = "https://www.linkedin.com/in/jonathan-d-barber/"
+ [[params.social]]
+   icon = "twitter"
+   name = "Twitter"
+   url = "https://x.com/JonAndBarber"
