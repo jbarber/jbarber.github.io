@@ -28,3 +28,8 @@ author = "Jonathan Barber"
    icon = "twitter"
    name = "Twitter"
    url = "https://x.com/JonAndBarber"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
